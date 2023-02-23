@@ -6,6 +6,6 @@ require (
 	github.com/gookit/color v1.4.2
 	github.com/spf13/pflag v1.0.5
 	github.com/txthinking/socks5 v0.0.0-20220212043548-414499347d4a
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
-	golang.org/x/text v0.3.7
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/text v0.3.8
 )
